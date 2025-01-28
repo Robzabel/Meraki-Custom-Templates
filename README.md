@@ -1,2 +1,2 @@
 # Meraki
-A collection of custome templates that can be used to automate administration tasks for Cisco Meraki devices.
+A collection of custom templates that can be used to automate administration tasks for Cisco Meraki devices.
